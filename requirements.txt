@@ -1,0 +1,7 @@
+web3
+aiohttp
+asyncio
+eth_abi
+python-dotenv
+sqlalchemy
+requests

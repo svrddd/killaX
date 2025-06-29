@@ -1,0 +1,1 @@
+// Solidity drainer contract placeholder
